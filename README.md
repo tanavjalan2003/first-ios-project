@@ -2,6 +2,9 @@
 
 Welcome to the **GreetingApp**, a Swift-based iOS application designed to generate personalized greetings, provide speech assistance, and customize the user interface with dynamic background colors.
 
+## Demo Video
+<video src="demo.mp4" controls width="600"></video>
+
 ---
 
 ## Table of Contents
