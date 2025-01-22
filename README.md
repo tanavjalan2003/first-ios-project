@@ -38,8 +38,8 @@ GreetingApp/
 │
 ├── ContentView.swift            # Main user interface logic
 ├── activity1App.swift           # App entry point
-├── Assets.xcassets              # Image and color assets
-├── Preview Content              # Preview assets for SwiftUI
+├── Assets.xcassets              # Image and color assets, original not changed
+├── Preview Content              # Preview assets for SwiftUI, original not changed
 └── README.md                    # Project documentation (this file)
 ```
 
